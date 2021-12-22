@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://mayanksetia13.github.io/SinglePriceGridComponent-FrontEndMentor/)
+- Live Site URL: [SinglePriceGridComponent](https://mayanksetia13.github.io/SinglePriceGridComponent-FrontEndMentor/)
 
 ## My process
 
